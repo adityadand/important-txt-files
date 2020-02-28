@@ -1,0 +1,3 @@
+telnet commands
+
+telnet www.telehack.com

@@ -1,0 +1,17 @@
+edit > increase indent to add indent in the file
+
+NOTEPAD++ REMOVE FIRST OR LAST CHARACTER OF EVERY LINE
+
+type this in findwhat section ^\h*\d+ and space in replace section (for nos)
+
+TO REMOVE UNWANTED SPACE IN BEGGNING CTRL + A THEN SHIFT TAB
+
+MAKE EVERY WORD IN NEW LINE SIMPLY SEARCH SPACE AND REPLACE WITH \n FOR MORE REFERENCE SEE BELOW
+-https://www.giannistsakiris.com/2011/07/05/replace-n-with-new-line-characters-using-notepad/
+
+TO ADD STRING AT EVERY WORD STARTING USE ^ in FIND WHAT SECTION
+
+TO ADD STRING AT EVERY WORD ENDING USE $ in FIND WHAT SECTION
+
+TO ADD NO AT BEGINING OF EVERY LINE GO TO EDIT THEN COLUMN EDITOR
+

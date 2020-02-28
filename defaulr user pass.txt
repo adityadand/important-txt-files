@@ -1,0 +1,5 @@
+root / root
+root / blank
+admin / admin
+admin /1234
+admin /blank

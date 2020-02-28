@@ -1,0 +1,205 @@
+1)regedit :->open registry of ur pc
+
+2)msconfig :->open system configuration
+
+3)%temp% :->opens temporary files
+
+4)%appdata% :->see secret hidden folder in ur user folder
+
+5)%programfiles% :->gain access to program file directly 
+
+6)%userprofile% :-> see user profiles directly
+
+7)chkdsk :-> check ur disk
+
+8)control :-> opens control pannel
+
+9)cleanmgr :-> very powerfull command to delect entire drive directly
+
+10)diskpart:-> on diskpart mode directly on cmd 
+
+11)perfmon :-> check perfomance of ur pc
+
+12)azman.msc :-> authorization management
+
+13)compmgmt.msc :-> computer management
+
+14)diskmgmt.msc :->open disk management directly
+
+15)firewall.cpl :->unable or disable ur firewall quickly
+
+16)fsmgmt.msc :->gain access to shared folder
+
+17)devmgmt.msc :-> device management
+
+18)dxdiag:-> direct x diagnostic tool
+
+19)dfrgui :-> optimise drives
+
+20)Netplwiz :-> manage user accounts change passwords 
+
+21)msinfo32 :->get whole system information
+
+22)shell:startup :->open startup folder add or remove item u want on startup of ur pc
+
+23)osk :->on screen keybord
+
+24)Logoff/shutdown :-> shutdown directly with run
+
+25)utilman :-> on the narrator mode listen every thing u hear
+
+26)calc :->opens calculator
+
+27)write:-> opens wordpad directly
+
+28)windows button + r :-> shortcut for run button
+
+29)services.msc:-> see running services
+
+30)cmd :->open cmd directly with run
+
+31)sdclt :-> opens backup and restore
+
+32)fsquirt:-> blue tooth file transfer
+
+33)certmgr.msc:-> see certifacates
+
+34)timedate.cpl:-> opens date and time
+
+35)verifier :-> device verifier
+
+36)main.cpl :-> mouse property
+
+37)psr :-> unbeliviable it records ur steps the movent u do
+
+38)appwiz.cpl :-> uninstall or change program
+
+39)intl.cpl:-> Region and Language
+
+40)regedt32:-> registry 32	
+
+41)mstsc :-> remote desktop connection
+
+42)credwiz :-> stored user name and password
+
+43)taskmgr:-> task manager
+
+44)xpsrchvw:->xps view
+
+45)winver :-> windows version
+
+46)powershell :->opens power shell
+
+47)msra :->remote asistance helper
+
+48)optionalfeatures :-> add or remove windows features
+
+49)powershell_ise :->power shell ise
+
+50)sndvol :-> volume mixer
+
+51)mrt :-> removes malicious software
+
+52)mip :-> maths input pannel
+
+53)charmap:-> character map
+
+54)msdt :-> support diagonist tool
+
+55)tabcal :->claibration tool
+
+56)comexp.msc :->component services
+
+57)displayswitch :-> connect to projector
+
+58)systempropertiesdataexecutionprevention :-> prevent data execution
+
+59)eventvwr.msc -> view events
+
+60)ncpa.cpl :-> network connections
+
+61)eudcedit :-> private character encoder
+
+62)mmsys.cpl:-> for sound
+
+63)cliconfg :-> sql client network utility
+
+64)sysdm.cpl :-> system properties
+
+65)rstrui :-> system restore
+
+65)taskschd.msc :-> task scheduler
+
+66)run any website for ex www.google.com and oress enter
+
+67)slui :-> windows activation client
+
+68)wf.msc:-> firewall with advance security
+
+69)wmplayer :-> to open windows media player
+
+70)wusa :-> windows update stand alone installer
+
+71)mspaint :-> to opent paint
+
+72)powerpnt :->to open power point
+
+73)excel :-> to open excel
+
+74)notepad:-> to open notpad
+
+75)rasphone:-> remote access phone book
+
+76)wscui.cpl :->  security center
+
+77)telnet :-> open microsoft telnet
+
+78)magnify :-> opens magnifier
+
+79)lusrmgr.msc:-> local users and groups
+
+80)system32 :->opens system 32
+
+81)c: :->opens c drive
+
+82)shrpubw :-> creates a shared folder
+
+83)ftp :-> start ftp (file transfer protocol)
+
+84)ipconfig /displaydns :-> display dns content
+
+85)ipconfig/all :->IP Configuration (Display Connection Configuration)
+
+86)comp :->compart files
+
+87)fonts :->see fonts in ur pc
+
+88)chrome :-> opens if installed
+
+89)desk.cpl :->display resolution
+
+90)inetcpl.cpl ->internet properties
+
+91)powercfg.cpl	:-> power configuration
+
+92)explorer :->opens explorer
+
+93)\ to find list of lesser known run commnds
+
+94). opens current user run folder
+
+95).. go to user folder
+
+96)calc :->opens calculator
+
+97)shutdown-r restart
+
+98)shutdown-a abort shutdown
+
+99)logoff :->logoff user
+
+100)control folders :-> to see folder properties
+
+101)%systemdrive% :->open main root drive
+
+102)%windir% :-> opens main root directory

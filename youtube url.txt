@@ -1,0 +1,25 @@
+&t=_m_s :->to start a video from particular time
+
+type repeater after youtube video to repeat it
+
+Take a YouTube URL for a restricted video like this:
+
+youtube.com/watch?v=wvZ6nB3cl1w
+
+Delete the watch? and replace the = with another / to create a URL that looks like this:
+
+youtube.com/v/wvZ6nB3cl1w
+
+youtube.com/watch?v=1F_bG-uJMns
+Add start=30 to the URL and get this:
+
+youtube.com/watch?v=1F_bG-uJMns&start=90
+
+youtube.com/tv
+
+youtube.com/watch?v=gy1B3agGNxw
+Change the URL to this:
+
+gifyoutube.com/watch?v=gy1B3agGNxw
+
+http://www.youtubedoubler.com/

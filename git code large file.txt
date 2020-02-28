@@ -1,0 +1,15 @@
+git lfs track "*.rar"
+
+git add .gitattributes
+
+git init
+
+git remote add origin (github project url)
+
+git remote -v
+
+git add 
+
+git commit -m "fourth commit"
+
+git push origin master

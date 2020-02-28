@@ -1,0 +1,35 @@
+1)youtube channel banner :- 2560 x 1440 pixels
+
+2)youtube channel icon size :- 800 x 800 px
+
+3)playstore banner :- 1034*500 pixels
+
+4)playstore app icon :- 512*512 
+
+5) instagram profile size :- 110 x 110 pixels
+
+6)whatsapp profile size :- 140×140 pixels
+
+7) facebook profile size :- 128x128 pixels
+
+8) facebook cover photo :- 851 pixels wide and 315 pixels tall for desktop and
+ 640 pixels wide by 360 pixels tall for mobile
+
+9) youtube video thumbnail size :- 1280x720 pixels
+
+10) youtube watermark size :- 800 x 800 pixels
+
+11) google+ profile size :- 
+Recommended size: 1080 x 608.
+Minimum size: 480 x 270.
+Maximum size: 2120 x 1192.
+Profile photo: 270 x 270
+
+12) twitter profile size :-  400x400 pixels
+
+13) twitter cover photo :- 1500px x 500 px
+
+
+
+
+

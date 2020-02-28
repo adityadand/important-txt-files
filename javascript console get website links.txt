@@ -1,0 +1,5 @@
+##### Code for URL Extraction
+urls = $$('a'); for (url in urls) console.log ( urls[url].href );
+
+##### Code for URL Extraction with Anchor Text (COLOURED)(works for chrome/firefox)
+var urls=$$('a');for(url in urls){console.log("%c#"+url+" - %c"+urls[url].innerHTML +" -- %c"+urls[url].href,"color:red;","color:green;","color:blue;");}

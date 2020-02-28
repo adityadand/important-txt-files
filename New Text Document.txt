@@ -1,0 +1,67 @@
+search accurate book or music
+-inurl:(htm|html|php) intitle:"index of" +"last modified" +"parent directory" +description +size +(wma|mp3) "Nirvana"
+
+want to download movie super easily type
+index of "moviename"
+
+use www.google.com/+ to goto google+
+
+cant find an app in playstore 
+
+-inurl:htm -inurl:html intitle:”index of” apk
+
+relpace ”index of” with the app name you want
+
+you use proxy or vpn to bypass things dont worry u can do it in official way
+
+http://translate.google.com/translate?sl=ja&tl=en&u=http://example.com/
+
+just replace http://example.com/ with the website you want
+
+you can also use this to translate website to english or any language you want
+
+search news accourding to hours minute or even seconds
+
+add &tbs=qdr: to the end of the URL, along with the time you want to search 
+(which can include h5 for 5 hours, n5 for 5 minutes, or s5 for 5 seconds
+(change any number you want instead of 5)
+
+search site excluding some sites
+
+facebook -site:https://en.wikipedia.org/wiki/Facebook
+
+this will search facebook but will not include link of facebook page in wikipedia
+
+search 
+site:www.amazon.com laptop
+
+you will only get laptops on amazon.com
+
+search
+
+site:www.google.com
+
+will will get many paths of google 
+
+like
+
+https://www.google.com/drive/
+https://www.google.com/adsense/start/
+https://www.google.com/inbox/
+
+reverse search or search with image 
+find the source of image
+use image.google.com and select image you want to search for it 
+
+want to remove a thing from your search use - sign and add text you want to remove
+
+apple -mac
+
+
+
+
+
+
+
+
+

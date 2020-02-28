@@ -1,0 +1,10 @@
+to define variable use var
+
+use // to comment
+
+<script>
+document.write("hello, world");
+</script>
+
+
+use .length to check length of string

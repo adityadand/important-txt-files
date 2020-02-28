@@ -1,0 +1,5 @@
+adb devices
+adb shell
+cd data/system
+su
+rm *.key

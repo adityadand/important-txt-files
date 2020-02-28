@@ -1,0 +1,5 @@
+jpegpull.htm - direct access multi webam
+
+admin/1234 - devices whose default username is admin and password is 1234
+
+WebCamXp
